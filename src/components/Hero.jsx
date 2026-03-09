@@ -70,6 +70,18 @@ function Hero() {
           <span>DELOITTE KPMG PWC ERNST&YOUNG &nbsp; • &nbsp;</span>
           <span>DELOITTE KPMG PWC ERNST&YOUNG &nbsp; • &nbsp;</span>
           <span>DELOITTE KPMG PWC ERNST&YOUNG &nbsp; • &nbsp;</span>
+          <span>DELOITTE KPMG PWC ERNST&YOUNG &nbsp; • &nbsp;</span>
+          <span>DELOITTE KPMG PWC ERNST&YOUNG &nbsp; • &nbsp;</span>
+          {/* Add a 3rd if your screen is very wide */}
+          <span>DELOITTE KPMG PWC ERNST&YOUNG &nbsp; • &nbsp;</span>
+          <span>DELOITTE KPMG PWC ERNST&YOUNG &nbsp; • &nbsp;</span>
+          <span>DELOITTE KPMG PWC ERNST&YOUNG &nbsp; • &nbsp;</span>
+          <span>DELOITTE KPMG PWC ERNST&YOUNG &nbsp; • &nbsp;</span>
+          <span>DELOITTE KPMG PWC ERNST&YOUNG &nbsp; • &nbsp;</span>
+          {/* Add a 3rd if your screen is very wide */}
+          <span>DELOITTE KPMG PWC ERNST&YOUNG &nbsp; • &nbsp;</span>
+          <span>DELOITTE KPMG PWC ERNST&YOUNG &nbsp; • &nbsp;</span>
+          <span>DELOITTE KPMG PWC ERNST&YOUNG &nbsp; • &nbsp;</span>
         </div>
       </div>
       <div className="layer">
