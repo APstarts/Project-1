@@ -5,6 +5,8 @@ import gsap from "gsap";
 
 function Hero() {
     useGSAP(() => {
+
+      //Hero section text animations
         gsap.fromTo(".hero-grid-left span", {
             x: -100,
             opacity: 0,
@@ -61,6 +63,8 @@ function Hero() {
           <span>SKY</span>
         </div>
       </div>
+
+      //infinite moving bar
       <div className="partners-bar">
         {/* The Track */}
         <div className="ticker-wrapper">
