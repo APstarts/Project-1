@@ -2,6 +2,8 @@ import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 
 function HeroCards() {
+
+  //hero show off cards
   const cards = [
     { id: 1, content: "20+ clients served" },
     { id: 2, content: "360+ github contributions this year" },
